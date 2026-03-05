@@ -56,6 +56,6 @@ yt_research_output/
 
 ## Part of AIQ
 
-- VPS: 76.13.177.238
 - Main repo: github.com/keithdealwis-ui/jarvis-archie-bridge
 - Architecture: ascendencyiq.ai/architecture
+
