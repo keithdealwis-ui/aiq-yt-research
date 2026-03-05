@@ -58,4 +58,6 @@ yt_research_output/
 
 - Main repo: github.com/keithdealwis-ui/jarvis-archie-bridge
 - Architecture: ascendencyiq.ai/architecture
+- Check out more: https://de-alwis.com/blog/ 
+
 
