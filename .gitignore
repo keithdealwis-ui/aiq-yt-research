@@ -1,0 +1,6 @@
+yt_research_output/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+*.vtt
